@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GcoreIsp", "GcoreIsp\GcoreIsp.vcxproj", "{6E80F13D-3C56-4A5B-A00A-1F430B4CB35E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E80F13D-3C56-4A5B-A00A-1F430B4CB35E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6E80F13D-3C56-4A5B-A00A-1F430B4CB35E}.Debug|Win32.Build.0 = Debug|Win32
+		{6E80F13D-3C56-4A5B-A00A-1F430B4CB35E}.Release|Win32.ActiveCfg = Release|Win32
+		{6E80F13D-3C56-4A5B-A00A-1F430B4CB35E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
